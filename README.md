@@ -5,13 +5,13 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：23 
-* 手 机：14755562086 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：feng_chen1@outlook.com    
-* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：前端工程师
+* 手 机：14755562086 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;  邮 箱：feng_chen1@outlook.com    
+* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：前端工程师
 
 ## 工作及教育经历
 
-* 南京润和润云科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.3~2022.11&emsp;&emsp;&emsp;&emsp;&emsp; 润和云计算-基础架构部       
-* 南阳师范学院&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 软件工程专业-本科
+* 南京润和润云科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.3~2022.11&emsp;&emsp;&emsp; 润和云计算-基础架构部       
+* 南阳师范学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2022.7&emsp;&emsp;&emsp;&emsp; 软件工程专业-本科
 
 ## 专业技能
 
